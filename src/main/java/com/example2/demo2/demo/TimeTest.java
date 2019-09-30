@@ -12,6 +12,7 @@ public class TimeTest {
         System.out.println(l);
         System.out.println("你好");
         System.out.println("你好祖国");
+        System.out.println("你好啊");
         return l;
     }
 
